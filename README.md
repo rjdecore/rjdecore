@@ -1,57 +1,111 @@
-# Hi there! 👋  
-Welcome to my GitHub profile! I'm *Rituraj Singh*, a Data Scientist and Data Analyst.  
+# Hi there! 👋
 
-## 🚀 About Me  
-- 🔭 Working on Machine Learning & Deep Learning  
-- 📊 Data Visualization: Power BI, Matplotlib, Seaborn  
-- 📚 Learning AI and Advanced Analytics  
+**Welcome to my GitHub profile! I'm Rituraj Singh, a passionate Data Analyst | Machine Learning Engineer | Data Scientist.**
 
----
+# 🚀 About Me
 
-## 🛠️ Tech Stack  
+**🔭 Currently working on Machine Learning Projects**
 
-### *Languages & Tools*  
-| Skill  | Icon |
-|---------|------|
-| *Python* 🐍 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| *SQL* 🗄️ | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| *Pandas* 🐼 | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) |
-| *Matplotlib* 📊 | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) |
-| *Seaborn* 🎨 | ![Seaborn](https://img.shields.io/badge/-Seaborn-0081A5?style=flat&logo=plotly&logoColor=white) |
-| *Power BI* 📈 | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
-| *Machine Learning* 🤖 | ![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white) |
-| *Deep Learning* 🧠 | ![DL](https://img.shields.io/badge/-Deep%20Learning-00599C?style=flat&logo=tensorflow&logoColor=white) |
-| *Statistics* 📊 | ![Statistics](https://img.shields.io/badge/-Statistics-4CAF50?style=flat&logo=googleanalytics&logoColor=white) |
+**📊 Skilled in Data Analysis & Visualization using Python, SQL & Power BI**
 
----
+**🌐 Interested in Data Analysis, Machine Learning Engineering, and Data Science**
 
-## 📂 Projects  
+**🧩 Exploring End-to-End Model Deployment with Flask & Streamlit**
 
-### 🔹 [Data Analysis with Python Projects](https://github.com/rjdecore/Python-Project)  
-(Click the link to view my Python-based data analysis projects!)  
+**📚 Constantly learning AI, Advanced Analytics, and Big Data Tools**
 
-### 🔹 [SQL Projects]((https://github.com/rjdecore/Sql_Project)
-  
-(Click the link to view my SQL projects!)  
+**🛠️ Tech Stack**
+**Languages & Tools**
+**Skill	Badge**
+**Python 🐍**	
 
-### 🔹 [Power BI Projects](https://github.com/rjdecore/Power-bi-Projects)  
-(Click the link to view my Power BI dashboards & reports!)  
+**SQL 🗄️**
 
-### 🔹 [Machine Learning & Deep Learning Projects](https://github.com/rjdecore/Machine-Learning-Project)  
-(Click the link to view my ML & DL projects!)  
+**Pandas🐼**
 
----
+**Matplotlib 📊**
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rjdecor&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>  
-  <img src="https://streak-stats.demolab.com?user=rjdecor&theme=tokyonight" alt="GitHub Streak" width="400"/>  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjdecore&theme=tokyonight" alt="GitHub Summary" width="500"/>  
-</p>
+**Seaborn 🎨**	
 
----
+**Power BI 📈**	
 
-## 📬 Contact Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/rjdecor)  
-[![Email](https://img.shields.io/badge/Email-Send%20Me%20a%20Mail-red?style=for-the-badge&logo=gmail)](mailto:rajritu301@gmail.com)
+**Machine Learning 🤖**
+
+**TensorFlow 🔶**	
+
+**Flask ⚙️**	
+
+**Streamlit 🚀**	
+
+**BeautifulSoup (Web Scraping) 🌐**
+
+**Statistics 📊**
+# 📂 Projects
+🔹**Python Data Analysis Projects**
+[Python Projects](https://github.com/rjdecore/Python-Project)
+
+
+(Exploratory analysis, visualization, and insights using Python libraries.)
+
+🔹 **SQL Projects**
+[SQL Projects](https://github.com/rjdecore/Sql_Project)
+
+
+(SQL case studies, business queries, and optimization.)
+
+🔹 **Power BI Projects**
+[Power BI Projects](https://github.com/rjdecore/Power-bi-Projects)
+
+
+(Interactive dashboards & business reports.)
+
+🔹 **Machine Learning & AI Projects**
+[Machine Learning Projects](https://github.com/rjdecore/Machine-Learning-Project)
+
+
+(Classification, regression, clustering, CNNs, deployment-ready models.)
+
+# 🏆 Achievements & Certifications
+
+- ✅ CloudyML Data Science & Analytics Mega Combo Course (2024)
+
+- ✅ PwC Switzerland – Power BI Job Simulation (Forage)
+
+- ✅ Tata – Data Visualization Virtual Experience (Forage)
+
+- ✅ Python, SQL, Excel, and Power BI Certifications
+
+# 📌 Career Timeline
+
+**📊 Data Science & Analytics (2024 – Present)**
+Transitioning into Data Science & Analytics with strong focus on Python, SQL, Power BI, Machine Learning, and AI.
+
+Built end-to-end Python, SQL, Power BI, and ML projects
+
+Completed CloudyML Mega Combo Course and virtual internships with PwC & Tata
+
+**💼 Sales Executive – Skylo Innovations (Aug 2022 – Jan 2024, Mumbai)**
+
+Handled customer interactions and data tracking
+
+Developed interest in using data for insights and decision-making
+
+💡 **Sales & Marketing Specialist – Illumination India (May 2019 – Jun 2022, Mumbai)**
+
+Managed sales reports, client data, and performance analysis
+
+Strengthened skills in Excel and reporting
+
+🏭 **Production Supervisor – Mascot Power Conversion Pvt. Ltd (Mar 2017 – Feb 2019, Mumbai)**
+
+Oversaw production & quality control
+
+Coordinated with teams and analyzed efficiency metrics
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rjdecore&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/> <img src="https://streak-stats.demolab.com?user=rjdecore&theme=tokyonight" alt="GitHub Streak" width="400"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjdecore&theme=tokyonight" alt="GitHub Summary" width="500"/> </p>
+📬 Contact Me
+
+
+
+
