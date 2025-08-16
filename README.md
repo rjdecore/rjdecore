@@ -30,7 +30,8 @@ Welcome to my GitHub profile! I'm *Rituraj Singh*, a Data Scientist and Data Ana
 ### 🔹 [Data Analysis with Python Projects](https://github.com/rjdecore/Python-Project)  
 (Click the link to view my Python-based data analysis projects!)  
 
-### 🔹 [SQL Projects]((https://github.com/rjdecore/Sql_Project))  
+### 🔹 [SQL Projects]((https://github.com/rjdecore/Sql_Project)
+  
 (Click the link to view my SQL projects!)  
 
 ### 🔹 [Power BI Projects](https://github.com/rjdecore/Power-bi-Projects)  
