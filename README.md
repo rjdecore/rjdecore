@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋 **[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://rjdecore.github.io/Portfolio/)**
 
 **Welcome to my GitHub profile! I'm Rituraj Singh, a passionate Data Analyst | Machine Learning Engineer | Data Scientist.**
 
@@ -13,7 +13,7 @@
 **🧩 Exploring End-to-End Model Deployment with Flask & Streamlit**
 
 **📚 Constantly learning AI, Advanced Analytics, and Big Data Tools**
-**[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://rjdecore.github.io/Portfolio/)**
+
 
 
 **🛠️ Tech Stack**
